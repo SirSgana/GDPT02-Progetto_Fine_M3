@@ -1,0 +1,820 @@
+fileFormatVersion: 2
+guid: aa11e73c7ce2cda4bacc0645b75cb140
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 209
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7559b8ba69ca63c438e39491a58f3552
+      internalID: 1598491080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_1
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 209
+        width: 23
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad80c8d1ae5b5a4f8f754567fc28f84
+      internalID: -1945422574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 209
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43264fbe49798a74e83ca14d07c5991c
+      internalID: -1281288810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 205
+        width: 24
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f433802d26d19242931da9c75d11703
+      internalID: 1701741506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 206
+        width: 32
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354b0b8df0ef61f44aaaeae25b0255c9
+      internalID: 57763705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 200
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3141b449a515554c997e2bb00f11090
+      internalID: -723284007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 200
+        width: 30
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a18b7a853c466e469d7387a88f2d8b9
+      internalID: -456661031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_8
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 209
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cc289299daf024989ba51ee74b6513
+      internalID: -1326156321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_9
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 145
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c785cf9068d2e74fad41e3609253330
+      internalID: 762955636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_10
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 145
+        width: 19
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2938926c4a465042b6938bc0adb4c26
+      internalID: -262425071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_11
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 145
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b86c18f60e8d6b43a237b98c5575863
+      internalID: -1256267025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 145
+        width: 20
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5be1226f080c8c499a4f0d204d0f94d
+      internalID: -686349707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 145
+        width: 30
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0598214268ee34eac08895411f4710
+      internalID: 1594705396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_14
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 144
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9c5708293f88d4c825b2869b000de5
+      internalID: -1944723184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 145
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a61e55236e06bc4ba35ff7ced767584
+      internalID: -238003192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_16
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 145
+        width: 19
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834afc377d4bdd54db2d8252f1ee907d
+      internalID: -766516487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_17
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 81
+        width: 17
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 397d0de6969fb094aafb7ad42a3c2f57
+      internalID: 1844788766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_18
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 81
+        width: 22
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a07658a9e845644baf8387dabc18bc
+      internalID: -1684975413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 81
+        width: 24
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de647cbc1075fb4a86839a560f62d00
+      internalID: 997684514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 81
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6fe46b42b5ac44aabe0f0f8ec31a64
+      internalID: 1908775495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 81
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69022a55138b904bb0e6cb1e239cd0e
+      internalID: -462559048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_22
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 80
+        width: 31
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795071f55ff5ae46b91b6df3a3f2249
+      internalID: -398700709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_23
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 81
+        width: 31
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27dfbc6d126f5148b301f3d490df9fb
+      internalID: -895373864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_24
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 81
+        width: 21
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c665c330b83c545983dc9043bf2558
+      internalID: 450136302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_25
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 17
+        width: 20
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba515f9af2ca6f84487b167e0a5810ff
+      internalID: -1545780204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_26
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 17
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1996b46a406cd5c47b077717b7b0fec4
+      internalID: -1906985999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_27
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 17
+        width: 23
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd962dce511b4342817daa6553f5e05
+      internalID: 185717755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_28
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 17
+        width: 26
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5772f43eda074fb41a590a42588776ca
+      internalID: 1676649004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_29
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 17
+        width: 33
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be4c87972db8704dbb8d6cc6718c5a3
+      internalID: -1480994962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_31
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 17
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44963d04163119b4889647f5206d7296
+      internalID: 1979805895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 17
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3ab55f61f4cf243acb1c73b0046494
+      internalID: 320013870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Swordsman_lvl3_Run_Attack_with_shadow_33
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 17
+        width: 15
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2272aa2ba2534cb459226559c09ec52a
+      internalID: -657669747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Swordsman_lvl3_Run_Attack_with_shadow_0: 1598491080
+      Swordsman_lvl3_Run_Attack_with_shadow_1: -1945422574
+      Swordsman_lvl3_Run_Attack_with_shadow_10: -262425071
+      Swordsman_lvl3_Run_Attack_with_shadow_11: -1256267025
+      Swordsman_lvl3_Run_Attack_with_shadow_12: -686349707
+      Swordsman_lvl3_Run_Attack_with_shadow_13: 1594705396
+      Swordsman_lvl3_Run_Attack_with_shadow_14: -1944723184
+      Swordsman_lvl3_Run_Attack_with_shadow_15: -238003192
+      Swordsman_lvl3_Run_Attack_with_shadow_16: -766516487
+      Swordsman_lvl3_Run_Attack_with_shadow_17: 1844788766
+      Swordsman_lvl3_Run_Attack_with_shadow_18: -1684975413
+      Swordsman_lvl3_Run_Attack_with_shadow_19: 997684514
+      Swordsman_lvl3_Run_Attack_with_shadow_2: -1281288810
+      Swordsman_lvl3_Run_Attack_with_shadow_20: 1908775495
+      Swordsman_lvl3_Run_Attack_with_shadow_21: -462559048
+      Swordsman_lvl3_Run_Attack_with_shadow_22: -398700709
+      Swordsman_lvl3_Run_Attack_with_shadow_23: -895373864
+      Swordsman_lvl3_Run_Attack_with_shadow_24: 450136302
+      Swordsman_lvl3_Run_Attack_with_shadow_25: -1545780204
+      Swordsman_lvl3_Run_Attack_with_shadow_26: -1906985999
+      Swordsman_lvl3_Run_Attack_with_shadow_27: 185717755
+      Swordsman_lvl3_Run_Attack_with_shadow_28: 1676649004
+      Swordsman_lvl3_Run_Attack_with_shadow_29: -1480994962
+      Swordsman_lvl3_Run_Attack_with_shadow_3: 1701741506
+      Swordsman_lvl3_Run_Attack_with_shadow_30: 1391320449
+      Swordsman_lvl3_Run_Attack_with_shadow_31: 1979805895
+      Swordsman_lvl3_Run_Attack_with_shadow_32: 320013870
+      Swordsman_lvl3_Run_Attack_with_shadow_33: -657669747
+      Swordsman_lvl3_Run_Attack_with_shadow_4: 57763705
+      Swordsman_lvl3_Run_Attack_with_shadow_5: 1669468668
+      Swordsman_lvl3_Run_Attack_with_shadow_6: -723284007
+      Swordsman_lvl3_Run_Attack_with_shadow_7: -456661031
+      Swordsman_lvl3_Run_Attack_with_shadow_8: -1326156321
+      Swordsman_lvl3_Run_Attack_with_shadow_9: 762955636
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

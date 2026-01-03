@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - BulletHero
+  - BulletEnemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2220693777
+    locked: 0
+  - name: Ground
+    uniqueID: 417580335
+    locked: 0
+  - name: GroundShadow
+    uniqueID: 1928028295
+    locked: 0
+  - name: Borders
+    uniqueID: 3344173121
+    locked: 0
+  - name: OtherBorders
+    uniqueID: 2463200057
+    locked: 0
+  - name: Objects
+    uniqueID: 1755990905
+    locked: 0
+  - name: Unit
+    uniqueID: 2920193393
+    locked: 0
+  - name: AnimObj
+    uniqueID: 1709117919
+    locked: 0
+  - name: Overlay
+    uniqueID: 3588892543
+    locked: 0
+  - name: WindowsOnObj
+    uniqueID: 3911795627
+    locked: 0
